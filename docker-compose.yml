@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  webapp:
+    build: .
+    image: chrisnewman/simplilearn_devops:latest
+    ports:
+    - "4200:4200"
