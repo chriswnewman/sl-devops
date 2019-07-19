@@ -12,3 +12,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 the docker-compose.yml in this repo is pointing to [my docker hub image](https://hub.docker.com/r/chrisnewman/simplilearn_devops)
 
 `docker-compose up`
+
+The app will be exposed on localhost:4200
