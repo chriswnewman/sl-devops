@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
+## First thing to do after cloning this repo
+`npm install`
+
 ## Create a docker image
 `docker build -t <repo_name>/<image_name>:<tag> .`
 
