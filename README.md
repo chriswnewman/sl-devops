@@ -10,4 +10,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Spin up a container from the published docker image in docker hub
 the docker-compose.yml in this repo is pointing to [my docker hub image](https://hub.docker.com/r/chrisnewman/simplilearn_devops)
+
 `docker-compose up`
